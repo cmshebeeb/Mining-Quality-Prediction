@@ -26,6 +26,12 @@ UniConverge Technologies focuses on industrial IoT and machine learning for manu
 - `/notebooks`: For Google Colab .ipynb files.
 - `/reports`: For final project report and visuals.
 
+## Model Plan
+1. Load dataset from Google Drive using pandas.
+2. Fix missing values (if any) and convert columns to correct data types.
+3. Use Linear Regression to predict % Silica Concentrate.
+4. Test model accuracy with RMSE and MAE.
+
 ## Tools
 - **Google Colab**: For data analysis and model building.
 - **Python Libraries**: pandas, scikit-learn, matplotlib.
