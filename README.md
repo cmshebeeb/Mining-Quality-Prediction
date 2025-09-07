@@ -34,4 +34,7 @@ UniConverge Technologies focuses on industrial IoT and machine learning for manu
 
 ## Tools
 - **Google Colab**: For data analysis and model building.
-- **Python Libraries**: pandas, scikit-learn, matplotlib.
+- **Python Libraries**: 
+  - pandas (data handling)
+  - scikit-learn (regression models)
+  - matplotlib (plots)
