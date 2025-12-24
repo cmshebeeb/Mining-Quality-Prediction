@@ -1,7 +1,7 @@
 # Mining-Quality-Prediction
 
 ## Certificate
-![Internship Certificate](https://drive.google.com/file/d/1TzdeJDjH-uioOjd7iOHvxdoJG1sVIjuK/view?usp=drive_link)
+[Internship Certificate](https://drive.google.com/file/d/1TzdeJDjH-uioOjd7iOHvxdoJG1sVIjuK/view?usp=drive_link)
 
 ## Project Overview
 This project aims to predict the percentage of silica (% Silica Concentrate) in iron ore concentrate from a mining flotation process using machine learning regression. The goal is to help engineers improve ore quality, reduce waste, and minimize environmental impact by predicting silica levels accurately.
