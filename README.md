@@ -25,8 +25,6 @@ UniConverge Technologies focuses on industrial IoT and machine learning for manu
 - `/data`: Placeholder for dataset (not uploaded due to size).
 - `/notebooks`: For Google Colab .ipynb files.
 - `/reports`: For final project report and visuals.
-- ~/images`: For saving the visualizations.
-
 ## Model Plan
 1. Load dataset from Google Drive using pandas.
 2. Fix missing values (if any) and convert columns to correct data types.
