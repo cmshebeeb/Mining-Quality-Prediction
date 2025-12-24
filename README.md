@@ -1,9 +1,6 @@
 # Mining-Quality-Prediction
 
-## Certificate
-[Internship Certificate](https://drive.google.com/file/d/1TzdeJDjH-uioOjd7iOHvxdoJG1sVIjuK/view?usp=drive_link)
 
-## Project Overview
 This project aims to predict the percentage of silica (% Silica Concentrate) in iron ore concentrate from a mining flotation process using machine learning regression. The goal is to help engineers improve ore quality, reduce waste, and minimize environmental impact by predicting silica levels accurately.
 
 ## UniConverge Technologies
@@ -28,6 +25,7 @@ UniConverge Technologies focuses on industrial IoT and machine learning for manu
 - `/data`: Placeholder for dataset (not uploaded due to size).
 - `/notebooks`: For Google Colab .ipynb files.
 - `/reports`: For final project report and visuals.
+- ~/images`: For saving the visualizations.
 
 ## Model Plan
 1. Load dataset from Google Drive using pandas.
@@ -47,3 +45,7 @@ UniConverge Technologies focuses on industrial IoT and machine learning for manu
 - Data Cleaning
 - Random Forest
 - Visualization
+## Certificate
+[Internship Certificate](https://drive.google.com/file/d/1TzdeJDjH-uioOjd7iOHvxdoJG1sVIjuK/view?usp=drive_link)
+
+## Project Overview
