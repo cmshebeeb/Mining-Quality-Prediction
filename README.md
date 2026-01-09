@@ -43,7 +43,5 @@ UniConverge Technologies focuses on industrial IoT and machine learning for manu
 - Data Cleaning
 - Random Forest
 - Visualization
-## Certificate
-[Internship Certificate](https://drive.google.com/file/d/1TzdeJDjH-uioOjd7iOHvxdoJG1sVIjuK/view?usp=drive_link)
 
 ## Project Overview
